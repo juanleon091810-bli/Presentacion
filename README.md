@@ -11,7 +11,7 @@
 | Carrera | `Ingenieria en Sistemas / Programador` |
 | Semestre | `4to semestre` |
 | Edad | `20 anios` |
-| Correo | `jdmora@unicesar.edu.co` |
+| Correo | `juandmora@unicesar.edu.co` |
 | GitHub | `@juanleon091810-bli` |
 | LinkedIn | `linkedin.com/in/tu-perfil` |
 
@@ -35,7 +35,7 @@
 ## Actualmente aprendiendo
 
 -Desarrollo web
--Desarrollo mulTimedia
+-Desarrollo multimedia
 
 ## Intereses
 
