@@ -18,10 +18,10 @@
 ## Habilidades tecnicas
 
 **Lenguajes:**
-`Python` `Java`
+`Python` `Java` `C#`
 
 **Frameworks y herramientas:**
-`Node.js`
+`Node.js` `React.js`
 
 **Bases de datos:**
 `Sin experiencia`
@@ -52,7 +52,11 @@
 ## Contacto
 
 Instagram: j.leon.__
+
+Facebook: Juan Leon
+
 WhatsApp: (+57) 310692254
+
 
 No dudes en contactarme para colaborar en proyectos o simplemente charlar sobre tecnologia.
 
